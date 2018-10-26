@@ -1,0 +1,12 @@
+.description {
+	padding-left: 10px;
+	font-size: 1.1em;
+}
+
+.games {
+	width: 60%;
+}
+
+.warning {
+	color: red;
+}
